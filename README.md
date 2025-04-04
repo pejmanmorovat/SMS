@@ -13,7 +13,7 @@ SMS Manager is a Bash script that allows you to search through your contacts and
 - [Termux](https://termux.com/) installed on your Android device
 - The following packages installed in Termux:
   - `jq` (for JSON processing)
-  - `termux-api` (for SMS functionality)
+  `termux-api` (for SMS functionality)
 
 ## Installation
 - `git clone https://github.com/pejmanmorovat/SMS.git`
