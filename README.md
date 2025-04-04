@@ -16,7 +16,10 @@ SMS Manager is a Bash script that allows you to search through your contacts and
   `termux-api` (for SMS functionality)
 
 ## Installation
-- `git clone https://github.com/pejmanmorovat/SMS.git`
+
+```bash
+git clone https://github.com/pejmanmorovat/SMS.git
+```
 
 1. Save the script to a file named `sms-manager.sh`
 2. Make it executable:
